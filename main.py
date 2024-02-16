@@ -92,5 +92,6 @@ potions = {healing_potions}
 
         else:
             print("invalid input.")
-
-AdventureGame()
+            
+if __name__ == "__main__":
+    AdventureGame()
